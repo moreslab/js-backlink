@@ -1,4 +1,4 @@
-<script src="https://domain.com/link.js"></script>
+//<script src="https://domain.com/backlink.js"></script>
     var a = document.createElement('a');
     var linkText = document.createTextNode("backlink text");
     a.appendChild(linkText);
